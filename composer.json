@@ -1,5 +1,5 @@
 {
-  "name": "ranjan/flarum-pages"
+  "name": "ranjan/flarum-pages",
   "description": "Professional static pages for Flarum",
   "type": "flarum-extension",
   "require": {
